@@ -1,0 +1,26 @@
+body{
+   
+    background-color: azure;
+    margin: 0px;
+}
+h1{ font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-shadow: 3px 3px 5px rgb(182, 0, 0);
+    width: 350px; 
+box-shadow: 4px 5px 6px;
+margin-left: 500px;}
+    
+   .box{
+    border: 5px solid;
+    font-size: 5em;
+    width: 250px;
+height: 250px;
+margin:50px; }
+
+#box1{
+background-color: aqua;
+margin-bottom: 50px ;
+margin-left:auto;
+}
+#box2{
+    background-color: red; }

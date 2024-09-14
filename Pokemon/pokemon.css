@@ -1,0 +1,16 @@
+body{
+   background-color: rgb(121, 136, 85);
+    margin: 0px;
+}
+h1{ font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-shadow: 3px 3px 5px gold;
+    width: 280px; 
+box-shadow: 4px 5px 6px;
+margin-left: 100px;}
+    
+   #poki{
+    float:right ;
+    margin: auto; }
+   #shadow{
+    text-shadow: 4px 4px 6px gold; }

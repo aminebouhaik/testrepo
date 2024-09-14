@@ -1,0 +1,12 @@
+.pee{
+    text-align: center;
+}
+.pee{
+    color: black;
+    text-decoration: none;
+    padding: 8px 15px;
+    display: inline-block;
+}
+.pee a:hover:not(.pee)
+{background-color: gray;
+border-radius: 5px;                }
